@@ -71,6 +71,19 @@ Der regelbasierte Decision Engine bewertet verschiedene Bereiche anhand definier
 - Regelbasierte Entscheidungslogik
 - Dashboard-Konzeption
 
+## Automatisierung
+
+Die Automatisierung wurde mit Google Apps Script umgesetzt.
+
+Aktuell werden unter anderem:
+
+- tägliche Snapshots wichtiger Kennzahlen gespeichert,
+- wöchentliche Reviews archiviert,
+- der Zeitpunkt der letzten Aktualisierung dokumentiert,
+- erfolgreiche und fehlgeschlagene Automatisierungsläufe protokolliert.
+
+Der zugehörige Apps-Script-Code ist im Repository unter `Code.gs` dokumentiert.
+
 ## Meine Rolle im Projekt
 
 Ich habe das System von der Problemdefinition über die Strukturierung der Daten bis zum funktionsfähigen Prototype entwickelt.
