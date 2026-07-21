@@ -34,6 +34,32 @@ Operation Freedom versucht, diese Informationen in einem gemeinsamen System zusa
 - Weekly Review zur regelmäßigen Kontrolle und Planung
 - Automation Logging zur Überwachung automatisierter Prozesse
 
+## Einblicke in das System
+
+### Zentrales Dashboard
+
+Das Dashboard fasst die wichtigsten Informationen zusammen und zeigt die aktuelle Mission, finanzielle Situation, Risiken, Fortschritt und die nächste empfohlene Aktion.
+
+![Operation Freedom Dashboard](dashboard-overview.png)
+
+### Risiken und Fortschritt
+
+Risiken, gefährdete Ziele und wichtige Fortschrittskennzahlen werden zentral dargestellt.
+
+![Risiken und Fortschritt](risks-progress.png)
+
+### Life Overview
+
+Die Life Overview verbindet verschiedene Lebensbereiche und zeigt deren aktuellen Status sowie offene Aktionen.
+
+![Life Overview](life-overview.png)
+
+### Decision Engine
+
+Der regelbasierte Decision Engine bewertet verschiedene Bereiche anhand definierter Kriterien und Scores. Daraus werden die aktuelle Priorität, deren Begründung und die nächste Aktion abgeleitet.
+
+![Decision Engine](decision-engine.png)
+
 ## Verwendete Technologien und Methoden
 
 - Google Sheets
